@@ -1,2 +1,2 @@
 # NBA-Shooting-Data
-analysis of a dataset containing information of shooting data from NBA matches
+Analysis of a dataset containing information of shooting data from NBA games with Python
