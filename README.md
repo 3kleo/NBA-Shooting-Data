@@ -15,7 +15,7 @@ This dataset is based on shooting statistics that can be found on [NBA.com](http
 
 ----------------------------------------------------------------------
 
-This analysis was developed using Python. With it, i tried to look at players shooting efficiency overall, when defended by different players and in different zones of the court.
+This analysis was developed using Python. During this analysis, we explored the players' overall shooting efficiency, when defended by different players and in different zones of the court.
 
 I also flipped the logic and looked at the defensive impact of the players in our dataset.
 
